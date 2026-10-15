@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price_inr,unit_cost_inr
+P001,Electronics Item 01,Electronics,6684.86,5109.96
+P002,Electronics Item 02,Electronics,41797.21,25616.21
+P003,Electronics Item 03,Electronics,45642.3,31420.62
+P004,Electronics Item 04,Electronics,27524.28,17345.99
+P005,Electronics Item 05,Electronics,34425.07,24881.6
+P006,Electronics Item 06,Electronics,12724.35,6668.67
+P007,Electronics Item 07,Electronics,43770.21,33398.06
+P008,Electronics Item 08,Electronics,5399.77,3776.39
+P009,Electronics Item 09,Electronics,9104.85,6330.22
+P010,Electronics Item 10,Electronics,41019.59,31649.06
+P011,Electronics Item 11,Electronics,46410.42,29183.75
+P012,Electronics Item 12,Electronics,20852.76,13529.82
+P013,Electronics Item 13,Electronics,24828.08,13110.25
+P014,Electronics Item 14,Electronics,33927.78,23819.82
+P015,Electronics Item 15,Electronics,7602.73,4877.77
+P016,Electronics Item 16,Electronics,57535.45,36051.77
+P017,Electronics Item 17,Electronics,16751.13,9954.71
+P018,Electronics Item 18,Electronics,12321.73,8785.59
+P019,Electronics Item 19,Electronics,25239.17,18763.7
+P020,Electronics Item 20,Electronics,51570.63,29375.91
+P021,Fashion Item 01,Fashion,5667.72,3328.52
+P022,Fashion Item 02,Fashion,3792.88,2648.93
+P023,Fashion Item 03,Fashion,1014.36,541.68
+P024,Fashion Item 04,Fashion,5911.42,4064.11
+P025,Fashion Item 05,Fashion,2814.39,1990.08
+P026,Fashion Item 06,Fashion,5377.17,3945.97
+P027,Fashion Item 07,Fashion,5374.74,3016.62
+P028,Fashion Item 08,Fashion,588.68,332.77
+P029,Fashion Item 09,Fashion,3970.77,2579.34
+P030,Fashion Item 10,Fashion,2831.64,2026.79
+P031,Fashion Item 11,Fashion,2395.22,1681.85
+P032,Fashion Item 12,Fashion,1660.29,952.78
+P033,Fashion Item 13,Fashion,5911.75,3770.48
+P034,Fashion Item 14,Fashion,1533.42,1154.06
+P035,Fashion Item 15,Fashion,3109.26,1997.06
+P036,Fashion Item 16,Fashion,408.94,297.47
+P037,Fashion Item 17,Fashion,1930.44,1244.38
+P038,Fashion Item 18,Fashion,3757.04,2219.6
+P039,Fashion Item 19,Fashion,3817.94,2537.91
+P040,Fashion Item 20,Fashion,4610.18,2781.51
+P041,Home & Kitchen Item 01,Home & Kitchen,10740.15,7797.39
+P042,Home & Kitchen Item 02,Home & Kitchen,11487.06,7049.61
+P043,Home & Kitchen Item 03,Home & Kitchen,2830.21,2057.61
+P044,Home & Kitchen Item 04,Home & Kitchen,10728.61,5935.05
+P045,Home & Kitchen Item 05,Home & Kitchen,2911.07,2133.31
+P046,Home & Kitchen Item 06,Home & Kitchen,2905.99,1722.33
+P047,Home & Kitchen Item 07,Home & Kitchen,3185.34,2017.0
+P048,Home & Kitchen Item 08,Home & Kitchen,1278.12,953.59
+P049,Home & Kitchen Item 09,Home & Kitchen,1587.76,917.0
+P050,Home & Kitchen Item 10,Home & Kitchen,11107.14,6374.2
+P051,Home & Kitchen Item 11,Home & Kitchen,8755.89,5517.26
+P052,Home & Kitchen Item 12,Home & Kitchen,5685.4,3556.72
+P053,Home & Kitchen Item 13,Home & Kitchen,7560.19,4187.27
+P054,Home & Kitchen Item 14,Home & Kitchen,2684.98,1518.55
+P055,Home & Kitchen Item 15,Home & Kitchen,9544.82,6769.12
+P056,Home & Kitchen Item 16,Home & Kitchen,11573.76,7646.53
+P057,Home & Kitchen Item 17,Home & Kitchen,1946.76,1490.63
+P058,Home & Kitchen Item 18,Home & Kitchen,3987.11,3040.19
+P059,Home & Kitchen Item 19,Home & Kitchen,3730.64,1952.35
+P060,Home & Kitchen Item 20,Home & Kitchen,8844.42,5300.8
+P061,Beauty Item 01,Beauty,2792.81,1752.57
+P062,Beauty Item 02,Beauty,1696.74,1293.88
+P063,Beauty Item 03,Beauty,3527.77,2348.37
+P064,Beauty Item 04,Beauty,1417.75,1079.48
+P065,Beauty Item 05,Beauty,324.3,169.56
+P066,Beauty Item 06,Beauty,621.4,390.08
+P067,Beauty Item 07,Beauty,3015.08,2061.6
+P068,Beauty Item 08,Beauty,3854.79,2481.81
+P069,Beauty Item 09,Beauty,1587.79,892.36
+P070,Beauty Item 10,Beauty,394.51,235.56
+P071,Beauty Item 11,Beauty,2956.74,1944.5
+P072,Beauty Item 12,Beauty,2241.72,1696.92
+P073,Beauty Item 13,Beauty,557.8,375.29
+P074,Beauty Item 14,Beauty,446.52,296.4
+P075,Beauty Item 15,Beauty,3020.49,2074.63
+P076,Beauty Item 16,Beauty,1985.6,1457.73
+P077,Beauty Item 17,Beauty,863.61,648.4
+P078,Beauty Item 18,Beauty,304.5,171.02
+P079,Beauty Item 19,Beauty,428.75,311.45
+P080,Beauty Item 20,Beauty,3755.04,2674.25
+P081,Books Item 01,Books,1084.32,822.07
+P082,Books Item 02,Books,1397.47,959.03
+P083,Books Item 03,Books,674.88,502.37
+P084,Books Item 04,Books,719.57,408.27
+P085,Books Item 05,Books,536.04,286.88
+P086,Books Item 06,Books,708.5,461.25
+P087,Books Item 07,Books,617.3,432.56
+P088,Books Item 08,Books,870.18,574.11
+P089,Books Item 09,Books,467.47,333.07
+P090,Books Item 10,Books,202.43,129.91
+P091,Books Item 11,Books,1183.52,865.79
+P092,Books Item 12,Books,569.34,341.89
+P093,Books Item 13,Books,1426.17,987.81
+P094,Books Item 14,Books,349.59,239.89
+P095,Books Item 15,Books,1546.74,876.89
+P096,Books Item 16,Books,1635.73,989.38
+P097,Books Item 17,Books,1739.56,1095.6
+P098,Books Item 18,Books,442.31,274.62
+P099,Books Item 19,Books,1150.12,677.5
+P100,Books Item 20,Books,652.59,428.81

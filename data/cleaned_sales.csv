@@ -1,0 +1,9 @@
+Order_ID,Product,Category,Price,Quantity
+101,Laptop,Electronics,50000.0,2.0
+102,Mouse,Electronics,500.0,3.0
+103,Keyboard,Electronics,4500.0,1.0
+104,Monitor,Electronics,12000.0,2.0
+105,Chair,Furniture,4500.0,4.0
+106,Table,Furniture,7000.0,2.5
+107,Headphones,Electronics,2000.0,3.0
+108,Notebook,Stationery,100.0,10.0
