@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 E-Commerce Sales Dashboard")
+st.title(":material/monitoring: E-Commerce Sales Dashboard")
 st.caption("Delivered Orders | Sales & Customer Analytics")
 
 # Load data
@@ -146,7 +146,7 @@ st.dataframe(filtered_df.head(100), width="stretch")
 # Region-wise Sales Analysis
 st.divider()
 
-st.subheader("🌍 Regional Sales Performance")
+st.subheader(":material/public: Regional Sales Analysis")
 
 regional_sales = (
     filtered_df.groupby("region", as_index=False)["sales"]
@@ -173,7 +173,7 @@ st.plotly_chart(fig3, width="stretch")
 # Step 32: Filter-Aware Customer Segmentation
 
 st.divider()
-st.subheader("👥 Customer Segmentation")
+st.header(":material/groups: Customer Segmentation")
 
 # Load saved customer segments
 customer_segments = pd.read_csv(
@@ -229,7 +229,7 @@ col3.metric("Low Value Customers", f"{low_value:,}")
 # Step 33: Download Filtered Sales Data
 
 st.divider()
-st.subheader("📥 Download Sales Report")
+st.subheader(":material/download: Download Sales Report")
 
 # Convert filtered data into CSV format
 csv_data = filtered_df.to_csv(index=False)
@@ -248,7 +248,7 @@ st.download_button(
 
 st.divider()
 
-st.subheader("💡 Automated Business Insights")
+st.subheader(":material/lightbulb: Automated Business Insights")
 
 if not filtered_df.empty:
 
@@ -275,9 +275,9 @@ if not filtered_df.empty:
 
     col1, col2, col3 = st.columns(3)
 
-    col1.metric("🏆 Top-Selling Category", top_category)
-    col2.metric("🌍 Best-Performing Region", top_region)
-    col3.metric("💰 Most Profitable Category", profitable_category)
+    col1.metric("Top-Selling Category", top_category)
+    col2.metric("Best-Performing Region", top_region)
+    col3.metric("Most Profitable Category", profitable_category)
 
 else:
     st.warning("No sales data available for the selected filters.")
@@ -288,7 +288,7 @@ else:
 
 st.divider()
 
-st.subheader("📈 Business Recommendations")
+st.subheader(":material/recommend: Business Recommendations")
 
 if not filtered_df.empty:
 
@@ -315,20 +315,20 @@ if not filtered_df.empty:
     best_region = region_performance.iloc[0]["region"]
 
     st.success(
-        f"🏆 {best_category} generates the highest revenue "
+        f" {best_category} generates the highest revenue "
         "among the selected categories. Consider prioritizing "
         "inventory and marketing for this category."
     )
 
     st.info(
-        f"🌍 {best_region} is the highest-revenue region. "
+        f" {best_region} is the highest-revenue region. "
         "Investigate opportunities to strengthen sales "
         "and customer retention in this region."
     )
 
     if len(category_performance) > 1:
         st.warning(
-            f"📉 {lowest_category} generates the lowest revenue "
+            f" {lowest_category} generates the lowest revenue "
             "among the selected categories. Review product demand, "
             "pricing, and marketing performance."
         )
@@ -340,12 +340,12 @@ if not filtered_df.empty:
 
     if not loss_categories.empty:
         st.error(
-            "💰 Some product categories have negative total profit. "
+            " Some product categories have negative total profit. "
             "Review their costs and pricing strategies."
         )
     else:
         st.info(
-            "💰 All selected product categories have "
+            " All selected product categories have "
             "non-negative total profit."
         )
 
