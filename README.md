@@ -105,6 +105,24 @@ This project demonstrates practical skills in Python programming, data cleaning,
 
 The dashboard transforms e-commerce transaction data into meaningful visual reports and actionable business insights.
 
+
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Revenue Analysis
+![Revenue Analysis](screenshots/revenue_analysis.png)
+
+### Regional Analysis
+![Regional Analysis](screenshots/regional_analysis.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+### Business Insights and Recommendations
+![Business Insights](screenshots/business_insights.png)
+
 ## Author
 
 **Supreet**
